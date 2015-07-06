@@ -1,0 +1,62 @@
+<nav class="dc-green">
+  <div class="nav-wrapper">
+    <div class="container">
+
+      {{#link-to 'index' class="brand-logo nav-positioning"}}
+        <img src="assets/img/dishcrawl-logo.png" class="logo-styling">
+      {{/link-to}}
+
+      <a href="#" data-activates="mobile-demo" class="button-collapse">
+        <i class="mdi-navigation-menu"></i>
+      </a>
+      <ul class="hide-on-med-and-down">
+        {{#link-to 'dishes' tagName='li'}}
+          <a>Dishes</a>
+        {{/link-to}}
+        {{!-- {{#link-to 'recipes' tagName='li'}}
+          <a>Recipes</a>
+        {{/link-to}} --}}
+        {{#link-to 'media' tagName='li'}}
+          <a>Media</a>
+        {{/link-to}}
+        {{#link-to 'brands' tagName='li'}}
+          <a>Brands</a>
+        {{/link-to}}
+        {{#link-to 'about' tagName='li'}}
+          <a>About</a>
+        {{/link-to}}
+      </ul>
+      <ul class="right hide-on-med-and-down">
+      	{{!--  {{#link-to 'newsletter' tagName='li'}}
+          <a>Newsletter</a>
+        {{/link-to}} --}}
+      	<li><a href="http://twitter.com/dishcrawl" target="_blank">{{fa-icon "twitter"}}</a></li>
+        <li><a href="http://facebook.com/dishcrawl" target="_blank">{{fa-icon "facebook"}}</a></li>
+        <li><a href="http://instagram.com/dishcrawl" target="_blank">{{fa-icon "instagram"}}</a></li>
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+	       {{!-- 	{{#link-to 'newsletter' tagName='li'}}
+          <a>Newsletter</a>
+        {{/link-to}} --}}
+		{{#link-to 'dishes' tagName='li'}}
+           {{link-to 'Dishes' 'dishes'}}
+        {{/link-to}}		
+        {{!--  {{#link-to 'recipes' tagName='li'}}
+          <a>Recipes</a>
+        {{/link-to}}		 --}}
+		{{#link-to 'media' tagName='li'}}
+           {{link-to 'Media' 'media'}}
+        {{/link-to}}
+        {{#link-to 'brands' tagName='li'}}
+           {{link-to 'Brands' 'brands'}}
+        {{/link-to}}	
+        {{#link-to 'about' tagName='li'}}
+           {{link-to 'About' 'about'}}
+        {{/link-to}}	
+        <li><a href="http://twitter.com/dishcrawl" target="_blank">Twitter</a></li>
+        <li><a href="http://facebook.com/dishcrawl" target="_blank">Facebook</a></li>
+         <li><a href="http://instagram.com/dishcrawl" target="_blank">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>

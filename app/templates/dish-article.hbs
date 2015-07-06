@@ -1,0 +1,30 @@
+<div class="container">
+	<div class="row">
+		<div class="col s12 margin-top-50">
+			<h5>{{link-to "< Dishes" "dishes"}}</h5>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col s12">
+				<h3 class="dc-red-text">{{content.cardTitle}}</h3>
+				<h5>{{content.cardContent}}</h5>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col s12 text-center">
+			<img class="responsive-img" src="{{content.image}}" alt="image">
+		</div>
+		<div class="col s12 text-right">
+			<p> Photo credit: {{content.imageCredit}}</p>
+		</div>
+		<div class="col s12">
+			<p>By {{content.author}}</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col s12 article-content margin-article">
+				{{partial content.bodyPartial}}
+		</div>
+	</div>
+
+</div>

@@ -1,0 +1,17 @@
+<p>
+	Montreal is known for its diverse and ever-evolving food scene. With more restaurants per citizen than any Canadian city, there are plenty of restaurants to choose from. From traditional, French-inspired cuisine to eclectic, Asian-fusion cuisine, there's something for everyone!
+</p>
+<p>
+	We found the some of the best dishes in this foodie city for you to try. 
+</p>
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	How did your food adventure go? Was it as delicious as expected? What did you eat! We'd love to know!
+</p>

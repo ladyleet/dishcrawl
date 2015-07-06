@@ -1,0 +1,15 @@
+<p>
+	Rochester, New York may be a bit "off the map" for some, and yes, it is known for its Garbage Plates, but that's not all Rochester has to give. Here are the best spots we found in the area that you must try!
+</p>
+
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	Hope you try these awesome Rochester dishes and they curb those cravings 'til we eat again! 
+</p>

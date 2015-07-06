@@ -1,0 +1,15 @@
+<p>
+ 	Whether you're trying our a new foodie hotspot or a small hidden-gem, Toronto has something to offer any foodie palate. The Toronto food scene is a bit of young and hip mixed with old institutions. Chefs are not lacking their share of talent, and we take you through some exciting dishes we found delicious in the city.
+</p>
+
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	Hope you try these awesome Toronto dishes and they curb those cravings 'til we eat again! 
+</p>

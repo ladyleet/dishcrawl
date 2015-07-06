@@ -1,0 +1,13 @@
+
+	
+	<div class="col s12 m6 l6">
+		{{#link-to 'dish-article' article.id}}
+		{{#md-card title=article.cardTitle titleClass="black-text" image=article.image}}
+  			{{#md-card-content}}
+  			{{article.cardContent}}
+  			{{/md-card-content}}
+		{{/md-card}}		
+		{{/link-to}}
+	</div>
+	
+

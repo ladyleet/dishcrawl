@@ -1,0 +1,12 @@
+<div class="container">
+	<div class="row">
+		<div class="col s12 margin-top-50">
+			<h2 class="dc-red-text">The Best Dishes in Every City</h2>
+		</div>
+	</div>
+	<div class="row">
+		{{#each content as |article|}}
+			{{article-card-on-toc article=article}}
+		{{/each}}
+	</div>
+</div>

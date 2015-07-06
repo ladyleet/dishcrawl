@@ -1,0 +1,17 @@
+<p>
+	Miami used to be a place where the DJ and style mattered more than the food, but that has changed in the past years. The city has matured tremendously and is now home to countless flavors, allowing you to eat outside the box at a variety of delicious restaurants.
+</p>
+<p>
+	Here are some dishes we've sampled around Miami! We hope they tantalize your taste buds.
+</p>
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	Hope you try these awesome Miami dishes and they curb those cravings 'til we eat again!
+</p>

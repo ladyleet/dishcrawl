@@ -6,6 +6,14 @@ var Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('media');
+  this.route('cookbook');
+  this.route('dishes');
+  this.route('newsletter');
+  this.route('recipes');
+  this.route('about');
+  this.route('brands');
+  this.route('dish-article', {path:'dish-article/:id'});
 });
 
 export default Router;

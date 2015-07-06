@@ -1,0 +1,15 @@
+<p>
+	San Francisco's dining scene is one of the best in the country and it's nearly impossible to have a bad meal.  Innovation and creativity are key in this city. Diners have open minds and love to try new creations. We've scoured the city for only the best and have our top picks for you to try below! 
+</p>
+
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	Hope you get to try every single dish we though was delicious and enjoyed it as much as we did!
+</p>

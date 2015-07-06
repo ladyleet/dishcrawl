@@ -1,0 +1,17 @@
+<p>
+	Everyone knows Memphis for its barbecue and soul food, but there is much more to this southern city. Many restaurants are starting to break the mold and step out of that Memphis stereotype and that trend has added so much to the city. 
+</p>
+<p>
+	We explored Memphis from top to bottom and found the best for you to try! Our stomachs are grumbling just thinking about Memphis food adventures!
+</p>
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	Enjoy Memphis' great eats, and let us know what you thought!
+</p>

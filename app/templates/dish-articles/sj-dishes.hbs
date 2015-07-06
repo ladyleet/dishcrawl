@@ -1,0 +1,15 @@
+<p>
+	San Jose might not scream foodie city at first, but you'd be surprised what great gems you can find and how delicious they are! From fine dining to delicious hole-in-the-walls, San Jose has everything you could imagine. Here are just some of our suggestions! 
+</p>
+
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	Our mouths are watering! If you're going on a dishcrawl can we come with you? 
+</p>

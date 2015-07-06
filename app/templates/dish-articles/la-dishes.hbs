@@ -1,0 +1,17 @@
+<p>
+	Los Angeles has one of the most dynamic culinary scenes in the country. Here, you can find farmers growing their own organic produce and restaurants taking advantage of the abundance of freshness. Chefs here love being leaders in innovation. Lately, young chefs have been opening affordable, experimental restaurants making Los Angeles a true foodie mecca. 
+</p>
+<p>
+	We traveled across the city of angels and found some fun foodie picks for you to try next time you're hopping around town. 
+</p>
+<div class="row">
+	{{log content.dishes}}
+	<div class="col s12 cards-container">
+	{{#each content.dishes as |dish|}}
+			{{dish-card dish=dish}}
+		{{/each}}
+	</div>
+</div>
+<p>
+	Are you as hungry as us after looking at all that food porn? Hope you get to try every single one of these delicious dishes and they curb your hunger! 'Til we eat again!
+</p>
