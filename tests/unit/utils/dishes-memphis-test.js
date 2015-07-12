@@ -5,6 +5,6 @@ module('Unit | Utility | dishes memphis');
 
 // Replace this with your real tests.
 test('it works', function(assert) {
-  var result = dishesMemphis();
+  var result = dishesMemphis.length;
   assert.ok(result);
 });
