@@ -1,101 +1,102 @@
 export default [{
     dish: {
-        name: "Grilled Snapper",
-        image: "assets/img/dish-articles/miami-atrio-grilledsnapper.jpg",
-        description: "Grilled snapper with a mango salsa and basil aioli"
+        name: "Pumpkin Fried Rice",
+        image: "assets/img/dish-articles/toronto-dynasty-pumpkinfriedrice.jpg",
+        description: "Pumpkin and chicken fried rice"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Dynasty",
+        url: "http://dynastyyorkville.com/"
     }
 }, {
     dish: {
-        name: "Grilled Hangar Steak",
-        image: "assets/img/dish-articles/miami-atrio-grilledhangarsteak.jpg",
-        description: "Grilled hanger steak with fingerling potatoes and chorizo"
+        name: "Jerk Tacos",
+        image: "assets/img/dish-articles/toronto-bundalounge-jerktacos.jpg",
+        description: "Jerk style pork tacos topped with mango, cilantro, balsamic infused onions and a mayo dressing"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Bunda Lounge",
+        url: "http://www.bundalounge.ca/"
     }
 }, {
     dish: {
-        name: "Pear and Proscuitto Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-pearandprosciutto.jpg",
-        description: "Proscuitto with fresh pears, Parmesan cheese, raspberry vinaigrette and basil"
+        name: "Beef Tenderloin",
+        image: "assets/img/dish-articles/toronto-letrounormand-beeftenderloin.jpg",
+        description: "Beef tenderloin, steamed vegetables, and smashed potatoes"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Le Trou Normand",
+        url: "http://www.letrounormand.ca/"
     }
 }, {
     dish: {
-        name: "Manouri Cheese Envelope",
-        image: "assets/img/dish-articles/miami-kouzina-manouricheese.png",
-        description: "Soft manouri cheese wrapped in phyllo dough drizzled with mountain honey and sesame seeds"
+        name: "Pork Schnitzel Rolls",
+        image: "assets/img/dish-articles/toronto-ellemadit-porkschnitzelrolls.jpg",
+        description: "Pork schnitzel rolls stuffed with sauerkraut"
     },
     restaurant: {
-        name: "Kouzina",
-        url: "http://kouzinabistro.com/"
+        name: "Elle M’a Dit",
+        url: "http://www.ellemadit.com/"
     }
 }, {
     dish: {
-        name: "Guava Pulled Pork Tacos",
-        image: "assets/img/dish-articles/miami-yuca-guavapulledporktacos.jpg",
-        description: "Slow cooked baby back ribs mixed with guava and pineapple BBQ sauce topped with pickled shallots, poblano and red peppers, cilantro aioli, and black beans"
+        name: "Captain Jerk",
+        image: "assets/img/dish-articles/toronto-theburgernator-captainjerk.jpg",
+        description: "All beef patty, grilled pineapple, Havarti cheese, lettuce, tomato, and jerk sauce "
     },
     restaurant: {
-        name: "Yuca",
-        url: "http://www.yuca.com/"
+        name: "The Burgernator",
+        url: "http://www.theburgernator.com/"
     }
 }, {
     dish: {
-        name: "Dragon Ball Roll",
-        image: "assets/img/dish-articles/miami-bonding-dragonballsushiroll.jpg",
-        description: "Crab cream cheese, jalapeño, tuna and crispy rice"
+        name: "Smoked Calamari",
+        image: "assets/img/dish-articles/toronto-barquesmokehouse-smokedcalamari.jpg",
+        description: "Smoked, seared calamari with smoked olives and cherry tomatoes tossed in citrus vinaigrette"
     },
     restaurant: {
-        name: "Bonding",
-        url: "http://www.bondingmiami.com/"
+        name: "Barque Smokehouse",
+        url: "http://barque.ca/"
     }
 }, {
     dish: {
-        name: "Tuna Sashimi Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-tunasashimisalad.jpg",
-        description: "Tuna with soy, ginger, Chinese mustard, Ponzu, grape seed oil with baby greens, endive, watercress, radicchio, avocado and sesame seeds"
+        name: "Sliders",
+        image: "assets/img/dish-articles/toronto-bqmossington-sliders.jpg",
+        description: "A trio of beef sliders all cooked medium with a variety of sauces"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "BQM Ossington",
+        url: "http://www.bqmburger.ca/"
     }
 }, {
     dish: {
-        name: "Guava Empanada",
-        image: "assets/img/dish-articles/miami-thebookstoreinthegrove-guavaempanada.jpg",
-        description: "Homemade empanada dough stuffed with a sweet guava mixture fried to perfection"
+        name: "Chocolate Covered Chips",
+        image: "assets/img/dish-articles/toronto-thechocolateria-chocolatecoveredchips.jpg",
+        description: "Potato chips covered in handmade chocolate and caramel"
     },
     restaurant: {
-        name: "The Bookstore in the Grove",
-        url: "http://www.thebookstoreinthegrove.com/"
+        name: "The Chocolateria",
+        url: "http://thechocolateria.ca/#/HOME-01-00/"
     }
 }, {
     dish: {
-        name: "Gelato",
-        image: "assets/img/dish-articles/miami-amoregelato-gelato.jpg",
-        description: "A variety of flavors of creamy, handmade gelato"
+        name: "Maple Bacon Donuts",
+        image: "assets/img/dish-articles/toronto-thebeastrestaurant-maplebacondonuts.jpg",
+        description: "Homemade donuts topped with maple icing and candied bacon bits"
     },
     restaurant: {
-        name: "Amore Gelato",
-        url: "https://www.juicebarmiami.com/home.html"
+        name: "The Beach Restaurant",
+        url: "http://thebeastrestaurant.com/"
     }
 }, {
     dish: {
-        name: "Popsicles",
-        image: "assets/img/dish-articles/miami-feverishpops-popsicles.jpg",
-        description: "A variety of handmade popsicles to cool you down"
+        name: "Red Velvet Cupcake",
+        image: "assets/img/dish-articles/toronto-dlishcupcakes-redvelvetcupcake.jpg",
+        description: "Velvety moist red cocoa cupcake with sweet cream cheese frosting"
     },
     restaurant: {
-        name: "Feverish Pops",
-        url: "http://feleciaflair.wix.com/feverishpopshop"
+        name: "Dlish Cupcakes",
+        url: "https://www.dlishcupcakes.com/"
     }
 }];
+

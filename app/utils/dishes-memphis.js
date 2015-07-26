@@ -1,101 +1,102 @@
 export default [{
     dish: {
-        name: "Grilled Snapper",
-        image: "assets/img/dish-articles/miami-atrio-grilledsnapper.jpg",
-        description: "Grilled snapper with a mango salsa and basil aioli"
+        name: "Lobster Pup",
+        image: "assets/img/dish-articles/memphis-rizzosdiner-lobsterpup.jpg",
+        description: "Lobster pup with creole mustard aioli"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Rizzo’s Diner",
+        url: "http://www.rizzosmemphis.com/"
     }
 }, {
     dish: {
-        name: "Grilled Hangar Steak",
-        image: "assets/img/dish-articles/miami-atrio-grilledhangarsteak.jpg",
-        description: "Grilled hanger steak with fingerling potatoes and chorizo"
+        name: "Tuna Ceviche",
+        image: "assets/img/dish-articles/memphis-alchemy-tunaceviche.jpg",
+        description: "Tuna ceviche with avocado and sesame seed"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Alchemy",
+        url: "http://alchemymemphis.com/"
     }
 }, {
     dish: {
-        name: "Pear and Proscuitto Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-pearandprosciutto.jpg",
-        description: "Proscuitto with fresh pears, Parmesan cheese, raspberry vinaigrette and basil"
+        name: "Blackened Red Snapper",
+        image: "assets/img/dish-articles/memphis-automaticslims-blackenedredsnapper.jpg",
+        description: "Blackened red snapper with herb risotto and crawfish slaw"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Automatic Slim’s",
+        url: "http://automaticslimsmemphis.com/"
     }
 }, {
     dish: {
-        name: "Manouri Cheese Envelope",
-        image: "assets/img/dish-articles/miami-kouzina-manouricheese.png",
-        description: "Soft manouri cheese wrapped in phyllo dough drizzled with mountain honey and sesame seeds"
+        name: "Fried Wonton Delights",
+        image: "assets/img/dish-articles/memphis-chiwawa-friedwontondelights.jpg",
+        description: "Wonton filled with shredded chicken, chorizo, and poblano cream cheese sauce drizzled with roja sauce and topped with green onions"
     },
     restaurant: {
-        name: "Kouzina",
-        url: "http://kouzinabistro.com/"
+        name: "Chiwawa",
+        url: "http://www.chiwawamidtown.com/"
     }
 }, {
     dish: {
-        name: "Guava Pulled Pork Tacos",
-        image: "assets/img/dish-articles/miami-yuca-guavapulledporktacos.jpg",
-        description: "Slow cooked baby back ribs mixed with guava and pineapple BBQ sauce topped with pickled shallots, poblano and red peppers, cilantro aioli, and black beans"
+        name: "Shrimp Lollipop",
+        image: "assets/img/dish-articles/memphis-cafeole-shrimplollipop.jpg",
+        description: "Skewered shrimp in blue corn meal on top of a bed of slaw with sweet and sour sauce and chives "
     },
     restaurant: {
-        name: "Yuca",
-        url: "http://www.yuca.com/"
+        name: "Café Ole",
+        url: "http://cafeolememphis.com/"
     }
 }, {
     dish: {
-        name: "Dragon Ball Roll",
-        image: "assets/img/dish-articles/miami-bonding-dragonballsushiroll.jpg",
-        description: "Crab cream cheese, jalapeño, tuna and crispy rice"
+        name: "Pepper Jack Mac 'n Cheese",
+        image: "assets/img/dish-articles/memphis-blindbearspeakeasy-pepperjackmacandcheese.jpg",
+        description: "Pepper jack mac and cheese with crawfish"
     },
     restaurant: {
-        name: "Bonding",
-        url: "http://www.bondingmiami.com/"
+        name: "Blind Bear Speakeasy",
+        url: "http://blindbearmemphis.com/"
     }
 }, {
     dish: {
-        name: "Tuna Sashimi Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-tunasashimisalad.jpg",
-        description: "Tuna with soy, ginger, Chinese mustard, Ponzu, grape seed oil with baby greens, endive, watercress, radicchio, avocado and sesame seeds"
+        name: "Pork Belly BLT",
+        image: "assets/img/dish-articles/memphis-bluefin-porkbellyblt.jpg",
+        description: "Pork belly BLT on a house-made steam bun slider"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Bluefin",
+        url: "http://www.bluefinmemphis.com/go/"
     }
 }, {
     dish: {
-        name: "Guava Empanada",
-        image: "assets/img/dish-articles/miami-thebookstoreinthegrove-guavaempanada.jpg",
-        description: "Homemade empanada dough stuffed with a sweet guava mixture fried to perfection"
+        name: "Jumbo Lump Crab Cake",
+        image: "assets/img/dish-articles/memphis-spindini-jumbolumpcrabcake.jpg",
+        description: "Jumbo lump crab cake atop basil creme fraiche and topped with balsamic salsa"
     },
     restaurant: {
-        name: "The Bookstore in the Grove",
-        url: "http://www.thebookstoreinthegrove.com/"
+        name: "Spindini",
+        url: "http://spindinimemphis.com/"
     }
 }, {
     dish: {
-        name: "Gelato",
-        image: "assets/img/dish-articles/miami-amoregelato-gelato.jpg",
-        description: "A variety of flavors of creamy, handmade gelato"
+        name: "Banana Bread Pudding Slider",
+        image: "assets/img/dish-articles/memphis-automaticslims-bananabreadpuddingslider.jpg",
+        description: "Banana bread pudding slider with an ice cream filling topped with strawberry, chocolate, and caramel drizzle"
     },
     restaurant: {
-        name: "Amore Gelato",
-        url: "https://www.juicebarmiami.com/home.html"
+        name: "Automatic Slim’s",
+        url: "http://automaticslimsmemphis.com/"
     }
 }, {
     dish: {
-        name: "Popsicles",
-        image: "assets/img/dish-articles/miami-feverishpops-popsicles.jpg",
-        description: "A variety of handmade popsicles to cool you down"
+        name: "Elvis Cake",
+        image: "assets/img/dish-articles/memphis-sweetnoshings-elviscake.jpg",
+        description: "Vanilla cake with a creamy banana and peanut butter filling topped with a drizzle of chocolate and a dollop of whipped cream"
     },
     restaurant: {
-        name: "Feverish Pops",
-        url: "http://feleciaflair.wix.com/feverishpopshop"
+        name: "Sweet Noshings",
+        url: "http://www.sweet-noshings.com/"
     }
 }];
+

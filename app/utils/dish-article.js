@@ -10,87 +10,87 @@ import rochesterDishes from './dishes-rochester';
 import miamiDishes from './dishes-miami';
 
 export default [{
-		cardTitle:"Dishes to Try in San Francisco",
+		cardTitle:"San Francisco - Eat Your Way Through These Dishes",
 		image:"assets/img/dish-articles/sf.jpg",
 		imageCredit: "www.themes.com",
-		cardContent:"Dishcrawl San Francisco with these dishes we've sampled.",
+		cardContent:"Explore the Tasty Crevices of This City With Us.",
 		bodyPartial: 'dish-articles/sf-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: sfDishes
 	},{
-		cardTitle:"Dishes to Try in DC",
+		cardTitle:"DC Dishes - Our Foodie Finds",
 		image:"assets/img/dish-articles/dc.jpg",
 		imageCredit: "stipcommonslab.github.io",
-		cardContent:"Dishcrawl DC with these dishes we've sampled.",
+		cardContent:"We've Sampled the Capitol So You Don't Have To. Enjoy!",
 		bodyPartial: 'dish-articles/dc-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: dcDishes
 	},{
-		cardTitle:"Dishes to Try in San Jose",
+		cardTitle:"San Jose Foodies - Dishes to Try",
 		image:"assets/img/dish-articles/san-jose.jpg",
 		imageCredit: "www.stevekepple.com",
-		cardContent:"Dishcrawl San Jose with these dishes we've sampled.",
+		cardContent:"The Silicon Valley is Delicious and Bursting with Flavor!",
 		bodyPartial: 'dish-articles/sj-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: sjDishes
 	},{
-		cardTitle:"Dishes to Try in Montreal",
+		cardTitle:"Montreal, Eat These Foodie Dishes",
 		image:"assets/img/dish-articles/montreal.jpg",
 		imageCredit: "www.wikimedia.org",
-		cardContent:"Dishcrawl Montreal with these dishes we've sampled.",
+		cardContent:"One of Our Favourite Frenchie Foodie Cities to Explore.",
 		bodyPartial: 'dish-articles/montreal-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: montrealDishes
 	},{
-		cardTitle:"Dishes to Try in Toronto",
+		cardTitle:"Toronto Foodie Dishes to Find and Try",
 		image:"assets/img/dish-articles/toronto.jpg",
 		imageCredit: "www.extendcreative.com",
-		cardContent:"Dishcrawl Toronto with these dishes we've sampled.",
+		cardContent:"Taste Your Way Around Town With Us!",
 		bodyPartial: 'dish-articles/toronto-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: torontoDishes
 	},{
-		cardTitle:"Dishes to Try in New York City",
+		cardTitle:"New York City - Explore These Dishes",
 		image:"assets/img/dish-articles/nyc.jpg",
 		imageCredit: "www.collegestartup.org",
-		cardContent:"Dishcrawl NYC with these dishes we've sampled.",
+		cardContent:"We've Literally Taken a Bite Out of The Big Apple.",
 		bodyPartial: 'dish-articles/nyc-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: nycDishes
 	},{
-		cardTitle:"Dishes to Try in Los Angeles",
+		cardTitle:"Los Angeles - Spilling These Foodie Dishes to Try",
 		image:"assets/img/dish-articles/los-angeles.jpg",
 		imageCredit: "www.urbanlaliving.com",
-		cardContent:"Dishcrawl LA with these dishes we've sampled.",
+		cardContent:"The City of Angels is Full of Heavenly Good Eats!",
 		bodyPartial: 'dish-articles/la-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: laDishes
 	},{
-		cardTitle:"Dishes to Try in Memphis",
+		cardTitle:"Memphis - Here are Some Dishes to Try",
 		image:"assets/img/dish-articles/memphis.jpg",
 		imageCredit: "www.jamesparkerphoto.com",
-		cardContent:"Dishcrawl Memphis with these dishes we've sampled.",
+		cardContent:"Get Down and Dirty with the Delicious South.",
 		bodyPartial: 'dish-articles/memphis-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: memphisDishes
 	},{
-		cardTitle:"Dishes to Try in Rochester",
+		cardTitle:"Rochester, Eat Like a Foodie",
 		image:"assets/img/dish-articles/rochester.jpg",
 		imageCredit: "www.sheridanvincentphotography.com",
-		cardContent:"Dishcrawl Rochester with these dishes we've sampled.",
+		cardContent:"A City That's Surprisingly Full of Delightful Food.",
 		bodyPartial: 'dish-articles/rochester-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: rochesterDishes
 	},{
-		cardTitle:"Dishes to Try in Miami",
+		cardTitle:"Miami - Eat Your Dishes Out",
 		image:"assets/img/dish-articles/miami.jpg",
 		imageCredit: "www.eci.com",
-		cardContent:"Dishcrawl Miami with these dishes we've sampled.",
+		cardContent:"The Miami Heat Pairs Perfectly with These Yummy Finds.",
 		bodyPartial: 'dish-articles/miami-dishes',
 		author: 'Nicole Benziger and Tracy Lee',
 		dishes: miamiDishes
 	}].map(article => {
-		article.id = article.cardTitle.classify().dasherize();
+		article.id = article.cardTitle.classify().dasherize().replace(/\,/, '-');
 		// if (article.id.length > 40) {
 		// 	article.id = article.id.substring(0, 40);
 		// }
