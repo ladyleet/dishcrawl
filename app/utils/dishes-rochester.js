@@ -1,101 +1,112 @@
 export default [{
     dish: {
-        name: "Grilled Snapper",
-        image: "assets/img/dish-articles/miami-atrio-grilledsnapper.jpg",
-        description: "Grilled snapper with a mango salsa and basil aioli"
+        name: "Glazed Pork Belly",
+        image: "assets/img/dish-articles/rochester-zeppabistro-glazedporkbelly.jpg",
+        description: "Glazed pork belly with pureed cauliflower, maple dijon brussels sprouts, and crispy salsify topped with a brown butter balsamic reduction"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Zeppa Bistro",
+        url: "http://w.zeppabistro.com/"
     }
 }, {
     dish: {
-        name: "Grilled Hangar Steak",
-        image: "assets/img/dish-articles/miami-atrio-grilledhangarsteak.jpg",
-        description: "Grilled hanger steak with fingerling potatoes and chorizo"
+        name: "Arancini Carbonara",
+        image: "assets/img/dish-articles/rochester-roamcafe-arancinicarbonara.jpg",
+        description: "A classic arancini fried to perfection, stuffed with bacon, and topped with carbonara sauce"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "ROAM Cafe",
+        url: "http://roamcafe.com/"
     }
 }, {
     dish: {
-        name: "Pear and Proscuitto Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-pearandprosciutto.jpg",
-        description: "Proscuitto with fresh pears, Parmesan cheese, raspberry vinaigrette and basil"
+        name: "Gaucho Steak",
+        image: "assets/img/dish-articles/rochester-dorado-gauchosteak.jpg",
+        description: "Gaucho steak over a frisee salad with a side of mashed plantains topped with a braised pig tail"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Dorado",
+        url: "http://www.doradoparkave.com/"
     }
 }, {
     dish: {
-        name: "Manouri Cheese Envelope",
-        image: "assets/img/dish-articles/miami-kouzina-manouricheese.png",
-        description: "Soft manouri cheese wrapped in phyllo dough drizzled with mountain honey and sesame seeds"
+        name: "Pork Bone Ramen",
+        image: "assets/img/dish-articles/rochester-furoshiki-porkboneramen.jpg",
+        description: "Pork bone broth, ramen, grilled pork, scallions, egg, greens, sprouts"
     },
     restaurant: {
-        name: "Kouzina",
-        url: "http://kouzinabistro.com/"
+        name: "Furoshiki",
+        url: "http://www.parkavenoodles.com/"
     }
 }, {
     dish: {
-        name: "Guava Pulled Pork Tacos",
-        image: "assets/img/dish-articles/miami-yuca-guavapulledporktacos.jpg",
-        description: "Slow cooked baby back ribs mixed with guava and pineapple BBQ sauce topped with pickled shallots, poblano and red peppers, cilantro aioli, and black beans"
+        name: "Mac and Cheese",
+        image: "assets/img/dish-articles/rochester-zeppabistro-macandcheese.jpg",
+        description: "Classic mac and cheese done right with a side of polenta fries on top of a bed of mushrooms"
     },
     restaurant: {
-        name: "Yuca",
-        url: "http://www.yuca.com/"
+        name: "Zeppa Bistro",
+        url: "http://w.zeppabistro.com/"
     }
 }, {
     dish: {
-        name: "Dragon Ball Roll",
-        image: "assets/img/dish-articles/miami-bonding-dragonballsushiroll.jpg",
-        description: "Crab cream cheese, jalapeño, tuna and crispy rice"
+        name: "Peach Crostini",
+        image: "assets/img/dish-articles/rochester-restaurant2vine-peachcrostini.jpg",
+        description: "Crostini with fontina and roasted peach compote"
     },
     restaurant: {
-        name: "Bonding",
-        url: "http://www.bondingmiami.com/"
+        name: "Restaurant 2 Vine",
+        url: "http://www.2vine.com/"
     }
 }, {
     dish: {
-        name: "Tuna Sashimi Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-tunasashimisalad.jpg",
-        description: "Tuna with soy, ginger, Chinese mustard, Ponzu, grape seed oil with baby greens, endive, watercress, radicchio, avocado and sesame seeds"
+        name: "Wolf Bites",
+        image: "assets/img/dish-articles/rochester-bluwolfbistro-wolfbites.jpg",
+        description: "Juicy burger bites with bacon and cheese fried in a puff pastry with a side of wolf sauce"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Blu Wolf Bistro",
+        url: "http://www.bluwolfbistro.com/"
     }
 }, {
     dish: {
-        name: "Guava Empanada",
-        image: "assets/img/dish-articles/miami-thebookstoreinthegrove-guavaempanada.jpg",
-        description: "Homemade empanada dough stuffed with a sweet guava mixture fried to perfection"
+        name: "Bacon Wrapped Asparagus",
+        image: "assets/img/dish-articles/rochester-banzaisushi-baconwrappedasparagus.jpg",
+        description: "Tempura fried bacon wrapped asparagus"
     },
     restaurant: {
-        name: "The Bookstore in the Grove",
-        url: "http://www.thebookstoreinthegrove.com/"
+        name: "Banzai Sushi",
+        url: "http://banzairochester.com/"
     }
 }, {
     dish: {
-        name: "Gelato",
-        image: "assets/img/dish-articles/miami-amoregelato-gelato.jpg",
-        description: "A variety of flavors of creamy, handmade gelato"
+        name: "Jillian’s Delight",
+        image: "assets/img/dish-articles/rochester-cheesyeddie’s-jillian’sdelight.jpg",
+        description: "Two freshly baked oatmeal cookies with a delicious cream cheese frosting in the middle"
     },
     restaurant: {
-        name: "Amore Gelato",
-        url: "https://www.juicebarmiami.com/home.html"
+        name: "Cheesy Eddie’s",
+        url: "http://www.cheesyeddies.com/"
     }
 }, {
     dish: {
-        name: "Popsicles",
-        image: "assets/img/dish-articles/miami-feverishpops-popsicles.jpg",
-        description: "A variety of handmade popsicles to cool you down"
+        name: "Salted Caramels",
+        image: "assets/img/dish-articles/rochester-hedonist-saltedcaramels.jpg",
+        description: "Homemade caramel dipped in milk chocolate topped with salt"
     },
     restaurant: {
-        name: "Feverish Pops",
-        url: "http://feleciaflair.wix.com/feverishpopshop"
+        name: "Hedonist Artisan Chocolates and Ice Cream",
+        url: "http://www.hedonisticecream.com/"
     }
+}, {
+    dish: {
+        name: "Espresso Martini",
+        image: "assets/img/dish-articles/rochester-roamcafe-espressomartini.jpg",
+        description: "Vanilla vodka, Baileys, and freshly made espresso topped with espresso beans"
+    },
+    restaurant: {
+        name: "ROAM Cafe",
+        url: "http://www.roamcafe.com/"
+ }
 }];
+

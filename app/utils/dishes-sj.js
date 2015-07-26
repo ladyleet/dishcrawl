@@ -1,101 +1,112 @@
 export default [{
     dish: {
-        name: "Grilled Snapper",
-        image: "assets/img/dish-articles/miami-atrio-grilledsnapper.jpg",
-        description: "Grilled snapper with a mango salsa and basil aioli"
+        name: "Sea Bass Tostada",
+        image: "assets/img/dish-articles/sanjose-mezcal-seabasstostada.jpg",
+        description: "Fresh marinated sea bass topped with avocado and pico de gallo on homemade tostada"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Mezcal",
+        url: "http://mezcalrestaurantsj.com/"
     }
 }, {
     dish: {
-        name: "Grilled Hangar Steak",
-        image: "assets/img/dish-articles/miami-atrio-grilledhangarsteak.jpg",
-        description: "Grilled hanger steak with fingerling potatoes and chorizo"
+        name: "Tri Tip and Cheddar Sandwich",
+        image: "assets/img/dish-articles/sanjose-nagleeparkgarage-tritipandcheddarsandwich.jpg",
+        description: "Tri tip & cheddar sandwich with bacon, caramelized onion, ketchup, on a onion poppy seed bun "
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Naglee Park Garage",
+        url: "http://nagleeparkgarage.com/"
     }
 }, {
     dish: {
-        name: "Pear and Proscuitto Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-pearandprosciutto.jpg",
-        description: "Proscuitto with fresh pears, Parmesan cheese, raspberry vinaigrette and basil"
+        name: "California Deviled Eggs",
+        image: "assets/img/dish-articles/sanjose-fahrenheitrestaurantandlounge-californiadeviledeggs.jpg",
+        description: "Avocado wasabi yolk topped with Pacific Bay shrimp, wasabi tobiko and togarashi spice."
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Fahrenheit Restaurant & Lounge",
+        url: "https://fahrenheitdining.squarespace.com/"
     }
 }, {
     dish: {
-        name: "Manouri Cheese Envelope",
-        image: "assets/img/dish-articles/miami-kouzina-manouricheese.png",
-        description: "Soft manouri cheese wrapped in phyllo dough drizzled with mountain honey and sesame seeds"
+        name: "Manchurian Cauliflower",
+        image: "assets/img/dish-articles/sanjose-turmeric-manchuriancauliflower.jpg",
+        description: "Famous Manchurian cauliflower cooked in a spicy garlic infused tomato sauce"
     },
     restaurant: {
-        name: "Kouzina",
-        url: "http://kouzinabistro.com/"
+        name: "Turmeric",
+        url: "http://www.turmericrestaurant.com/"
     }
 }, {
     dish: {
-        name: "Guava Pulled Pork Tacos",
-        image: "assets/img/dish-articles/miami-yuca-guavapulledporktacos.jpg",
-        description: "Slow cooked baby back ribs mixed with guava and pineapple BBQ sauce topped with pickled shallots, poblano and red peppers, cilantro aioli, and black beans"
+        name: "Jesse James Grilled Cheese",
+        image: "assets/img/dish-articles/sanjose-grilledcheesebandits-jessejamesgrilledcheese.jpg",
+        description: "Grilled black forest ham and sharp cheddar basted with white truffle oil on a batard encrusted with sharp cheddar"
     },
     restaurant: {
-        name: "Yuca",
-        url: "http://www.yuca.com/"
+        name: "Grilled Cheese Bandits",
+        url: "http://www.grilledcheesebandits.com/"
     }
 }, {
     dish: {
-        name: "Dragon Ball Roll",
-        image: "assets/img/dish-articles/miami-bonding-dragonballsushiroll.jpg",
-        description: "Crab cream cheese, jalapeño, tuna and crispy rice"
+        name: "Homage to Charlie Trotter",
+        image: "assets/img/dish-articles/sanjose-farepdq-homagetocharlietrotter.jpg",
+        description: "Peppered ahi tuna, red miso, crispy matsutake and its juices"
     },
     restaurant: {
-        name: "Bonding",
-        url: "http://www.bondingmiami.com/"
+        name: "Fare-PDQ",
+        url: "http://www.fare-pdq.com/"
     }
 }, {
     dish: {
-        name: "Tuna Sashimi Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-tunasashimisalad.jpg",
-        description: "Tuna with soy, ginger, Chinese mustard, Ponzu, grape seed oil with baby greens, endive, watercress, radicchio, avocado and sesame seeds"
+        name: "Crab Cake Sliders",
+        image: "assets/img/dish-articles/sanjose-bluewaterseafood-crabcakesliders.jpg",
+        description: "Crab cake atop a light, fluffy roll with lettuce and tomato"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Blue Water Seafood",
+        url: "http://bluewaterseafoodandcrab.com/"
     }
 }, {
     dish: {
-        name: "Guava Empanada",
-        image: "assets/img/dish-articles/miami-thebookstoreinthegrove-guavaempanada.jpg",
-        description: "Homemade empanada dough stuffed with a sweet guava mixture fried to perfection"
+        name: "Prawns Al Tequila",
+        image: "assets/img/dish-articles/sanjose-roberto’scantina-prawnsaltequila.jpg",
+        description: "Prawns sautéed in tequila-caper sauce, typically made with habaneros"
     },
     restaurant: {
-        name: "The Bookstore in the Grove",
-        url: "http://www.thebookstoreinthegrove.com/"
+        name: "Roberto’s Cantina",
+        url: "http://www.robertos-cantina.com/"
     }
 }, {
     dish: {
-        name: "Gelato",
-        image: "assets/img/dish-articles/miami-amoregelato-gelato.jpg",
-        description: "A variety of flavors of creamy, handmade gelato"
+        name: "Tiramisu",
+        image: "assets/img/dish-articles/sanjose-vinsantoristorante-tiramisu.jpg",
+        description: "Lady fingers soaked in coffee and marsala wine with whipped mascarpone cheese and cream, dusted with cocoa powder and chocolate shavings"
     },
     restaurant: {
-        name: "Amore Gelato",
-        url: "https://www.juicebarmiami.com/home.html"
+        name: "Vin Santo Ristorante",
+        url: "http://www.vin-santo.com/"
     }
 }, {
     dish: {
-        name: "Popsicles",
-        image: "assets/img/dish-articles/miami-feverishpops-popsicles.jpg",
-        description: "A variety of handmade popsicles to cool you down"
+        name: "Chocolate Bread Pudding",
+        image: "assets/img/dish-articles/sanjose-nagleeparkgarage-chocolatebreadpudding.jpg",
+        description: "Chocolate bread pudding with whipped cream & pecans"
     },
     restaurant: {
-        name: "Feverish Pops",
-        url: "http://feleciaflair.wix.com/feverishpopshop"
-    }
+        name: "Naglee Park Garage",
+        url: "http://nagleeparkgarage.com/"
+       }
+}, {
+    dish: {
+        name: "Shark Tank Drink",
+        image: "assets/img/dish-articles/sanjose-bluewaterseafood-sharktankdrink.jpg",
+        description: "Bacardi Rum, Malibu Rum, Curacao and a bunch of fruit with a gummy shark"
+    },
+    restaurant: {
+        name: "Blue Water Seafood",
+        url: "http://bluewaterseafoodandcrab.com/"
+ }
 }];
+

@@ -1,101 +1,102 @@
 export default [{
     dish: {
-        name: "Grilled Snapper",
-        image: "assets/img/dish-articles/miami-atrio-grilledsnapper.jpg",
-        description: "Grilled snapper with a mango salsa and basil aioli"
+        name: "Smoked Salmon Carpaccio",
+        image: "assets/img/dish-articles/la-octopusburbank-smokedsalmoncarpachio.jpg",
+        description: "Smoked salmon served with capers and dried basil in a balsamic sauce"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Octopus Burbank",
+        url: "http://octopusrestaurant.com/"
     }
 }, {
     dish: {
-        name: "Grilled Hangar Steak",
-        image: "assets/img/dish-articles/miami-atrio-grilledhangarsteak.jpg",
-        description: "Grilled hanger steak with fingerling potatoes and chorizo"
+        name: "Sicilian Pasta",
+        image: "assets/img/dish-articles/la-enterprisefishcompany-sicilianpasta.jpg",
+        description: "Penne with shrimp, calamari, fresh mussels, and spicy tomato sauce"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Enterprise Fish Company",
+        url: "http://www.enterprisefishco.com/home"
     }
 }, {
     dish: {
-        name: "Pear and Proscuitto Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-pearandprosciutto.jpg",
-        description: "Proscuitto with fresh pears, Parmesan cheese, raspberry vinaigrette and basil"
+        name: "Short Ribs",
+        image: "assets/img/dish-articles/la-sauceonhampton-shortribs.jpg",
+        description: "Beef braised short ribs served over special mashed potatoes"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Sauce on Hampton",
+        url: "http://sauceonhampton.com/"
     }
 }, {
     dish: {
-        name: "Manouri Cheese Envelope",
-        image: "assets/img/dish-articles/miami-kouzina-manouricheese.png",
-        description: "Soft manouri cheese wrapped in phyllo dough drizzled with mountain honey and sesame seeds"
+        name: "Stout Beer Sausage",
+        image: "assets/img/dish-articles/la-disrict13-stoutbeersausage.jpg",
+        description: "Stout beer sausage with grilled onions and cilantro served with “D13” fries tossed in garlic, parmesan, and herbs"
     },
     restaurant: {
-        name: "Kouzina",
-        url: "http://kouzinabistro.com/"
+        name: "District 13",
+        url: "http://www.d13la.com/"
     }
 }, {
     dish: {
-        name: "Guava Pulled Pork Tacos",
-        image: "assets/img/dish-articles/miami-yuca-guavapulledporktacos.jpg",
-        description: "Slow cooked baby back ribs mixed with guava and pineapple BBQ sauce topped with pickled shallots, poblano and red peppers, cilantro aioli, and black beans"
+        name: "Trio of Pasta",
+        image: "assets/img/dish-articles/la-ilcapriccio-trioofpasta.jpg",
+        description: "Penne arrabiata, gorgonzola gnocchi, and rigatoni antonio with pesto"
     },
     restaurant: {
-        name: "Yuca",
-        url: "http://www.yuca.com/"
+        name: "Il Capriccio",
+        url: "http://ilcapriccioonvermont.com/"
     }
 }, {
     dish: {
-        name: "Dragon Ball Roll",
-        image: "assets/img/dish-articles/miami-bonding-dragonballsushiroll.jpg",
-        description: "Crab cream cheese, jalapeño, tuna and crispy rice"
+        name: "Grilled Brie",
+        image: "assets/img/dish-articles/la-desertrose-grilledbrie.jpg",
+        description: "Grilled brie with a harissa paste accompanied by fresh strawberries, apples, and toasted pita"
     },
     restaurant: {
-        name: "Bonding",
-        url: "http://www.bondingmiami.com/"
+        name: "Desert Rose",
+        url: "http://www.desertroserestaurant.com/#desertrosemenus"
     }
 }, {
     dish: {
-        name: "Tuna Sashimi Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-tunasashimisalad.jpg",
-        description: "Tuna with soy, ginger, Chinese mustard, Ponzu, grape seed oil with baby greens, endive, watercress, radicchio, avocado and sesame seeds"
+        name: "Cream of Mushroom Soup",
+        image: "assets/img/dish-articles/la-caffeconcerto-creamofmushroomsoup.jpg",
+        description: "Cream of mushroom soup topped with a homemade crostini"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Caffe Concerto",
+        url: "http://www.caffeconcertousa.com/"
     }
 }, {
     dish: {
-        name: "Guava Empanada",
-        image: "assets/img/dish-articles/miami-thebookstoreinthegrove-guavaempanada.jpg",
-        description: "Homemade empanada dough stuffed with a sweet guava mixture fried to perfection"
+        name: "Key Lime Pie",
+        image: "assets/img/dish-articles/la-cafegratitude-keylimepie.jpg",
+        description: "Creamy avocado-lime custard topped with coconut meringue in a pecan-macadamia date crust"
     },
     restaurant: {
-        name: "The Bookstore in the Grove",
-        url: "http://www.thebookstoreinthegrove.com/"
+        name: "Café Gratitude",
+        url: "http://cafegratitude.com/"
     }
 }, {
     dish: {
-        name: "Gelato",
-        image: "assets/img/dish-articles/miami-amoregelato-gelato.jpg",
-        description: "A variety of flavors of creamy, handmade gelato"
+        name: "Chocolate Crostada",
+        image: "assets/img/dish-articles/la-thepiehole-chocolatecrostada.jpg",
+        description: "Flourless chocolate pie filling topped with drizzled caramel and sea salt"
     },
     restaurant: {
-        name: "Amore Gelato",
-        url: "https://www.juicebarmiami.com/home.html"
+        name: "The Pie Hole",
+        url: "http://www.thepieholela.com/"
     }
 }, {
     dish: {
-        name: "Popsicles",
-        image: "assets/img/dish-articles/miami-feverishpops-popsicles.jpg",
-        description: "A variety of handmade popsicles to cool you down"
+        name: "Quesito Flan",
+        image: "assets/img/dish-articles/la-escala-quesitoflan.jpg",
+        description: "Cheesecake custard topped with strawberry foam and peanuts"
     },
     restaurant: {
-        name: "Feverish Pops",
-        url: "http://feleciaflair.wix.com/feverishpopshop"
+        name: "EscaLA K-Town",
+        url: "http://www.escalaktown.com/#about"
     }
 }];
+

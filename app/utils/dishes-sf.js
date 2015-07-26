@@ -1,101 +1,102 @@
 export default [{
     dish: {
-        name: "Grilled Snapper",
-        image: "assets/img/dish-articles/miami-atrio-grilledsnapper.jpg",
-        description: "Grilled snapper with a mango salsa and basil aioli"
+        name: "Sloppy Bun",
+        image: "assets/img/dish-articles/sf-bunmee-sloppybun.jpg",
+        description: "Red curry ground beef, house garlic aioli, shaved onion, thai basil, jalapenos, and a fried egg"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Bun Mee",
+        url: "http://www.bunmee.co/"
     }
 }, {
     dish: {
-        name: "Grilled Hangar Steak",
-        image: "assets/img/dish-articles/miami-atrio-grilledhangarsteak.jpg",
-        description: "Grilled hanger steak with fingerling potatoes and chorizo"
+        name: "Seared Tuna Salad",
+        image: "assets/img/dish-articles/sf-harrysbar-searedtunasalad.jpg",
+        description: "Seared tuna, gem lettuce, apples, avocado, red onion, red wine vinaigrette"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Harry’s Bar",
+        url: "http://harrysbarsf.com/"
     }
 }, {
     dish: {
-        name: "Pear and Proscuitto Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-pearandprosciutto.jpg",
-        description: "Proscuitto with fresh pears, Parmesan cheese, raspberry vinaigrette and basil"
+        name: "Pad See Ewe",
+        image: "assets/img/dish-articles/sf-thaistick-padseeewe.jpg",
+        description: "Rice noodles with broccoli and cabbage in soy sauce"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Thai Stick",
+        url: "http://www.thaistickrestaurant.com/index.html"
     }
 }, {
     dish: {
-        name: "Manouri Cheese Envelope",
-        image: "assets/img/dish-articles/miami-kouzina-manouricheese.png",
-        description: "Soft manouri cheese wrapped in phyllo dough drizzled with mountain honey and sesame seeds"
+        name: "Veggie Tikka Masala",
+        image: "assets/img/dish-articles/sf-bombayindianrestaurant-veggietikkamasala.jpg",
+        description: "Vegetables cooked with a unique blend of spices, with tomatoes and onions in creamy sauce"
     },
     restaurant: {
-        name: "Kouzina",
-        url: "http://kouzinabistro.com/"
+        name: "Bombay Indian Restaurant",
+        url: "http://www.bombayindian.com/"
     }
 }, {
     dish: {
-        name: "Guava Pulled Pork Tacos",
-        image: "assets/img/dish-articles/miami-yuca-guavapulledporktacos.jpg",
-        description: "Slow cooked baby back ribs mixed with guava and pineapple BBQ sauce topped with pickled shallots, poblano and red peppers, cilantro aioli, and black beans"
+        name: "Croquettes",
+        image: "assets/img/dish-articles/sf-lolinda-croquettes.jpg",
+        description: "Yucca-ricotta croquettes with rocoto aioli"
     },
     restaurant: {
-        name: "Yuca",
-        url: "http://www.yuca.com/"
+        name: "Lolinda",
+        url: "http://lolindasf.com/"
     }
 }, {
     dish: {
-        name: "Dragon Ball Roll",
-        image: "assets/img/dish-articles/miami-bonding-dragonballsushiroll.jpg",
-        description: "Crab cream cheese, jalapeño, tuna and crispy rice"
+        name: "Ceviche",
+        image: "assets/img/dish-articles/sf-lolinda-ceviche.jpg",
+        description: "Squid, shrimp, ono, rocoto, fried corn"
     },
     restaurant: {
-        name: "Bonding",
-        url: "http://www.bondingmiami.com/"
+        name: "Lolinda",
+        url: "http://lolindasf.com/"
     }
 }, {
     dish: {
-        name: "Tuna Sashimi Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-tunasashimisalad.jpg",
-        description: "Tuna with soy, ginger, Chinese mustard, Ponzu, grape seed oil with baby greens, endive, watercress, radicchio, avocado and sesame seeds"
+        name: "Marinated Mussels",
+        image: "assets/img/dish-articles/sf-barcrudo-marinatedmussels.jpg",
+        description: "Herb and jalapeno marinated mussels"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Bar Crudo",
+        url: "http://barcrudo.com/"
     }
 }, {
     dish: {
-        name: "Guava Empanada",
-        image: "assets/img/dish-articles/miami-thebookstoreinthegrove-guavaempanada.jpg",
-        description: "Homemade empanada dough stuffed with a sweet guava mixture fried to perfection"
+        name: "Mint Asiago Gnocchi",
+        image: "assets/img/dish-articles/sf-alysonmain-mintasiagognocchi.jpg",
+        description: "Gnocchi with browned butter sage and a dash of fresh mozzarella cheese"
     },
     restaurant: {
-        name: "The Bookstore in the Grove",
-        url: "http://www.thebookstoreinthegrove.com/"
+        name: "Aly’s On Main",
+        url: "http://www.alysonmain.com/"
     }
 }, {
     dish: {
-        name: "Gelato",
-        image: "assets/img/dish-articles/miami-amoregelato-gelato.jpg",
-        description: "A variety of flavors of creamy, handmade gelato"
+        name: "Ricotta Cavatelli",
+        image: "assets/img/dish-articles/sf-hillsidesupperclub-ricottacavatelli.jpg",
+        description: "Wild nettle pesto, toasted pistachio, shaved spring radish, borage, Bellwether carmody"
     },
     restaurant: {
-        name: "Amore Gelato",
-        url: "https://www.juicebarmiami.com/home.html"
+        name: "Hillside Supper Club",
+        url: "http://www.hillsidesupperclub.com/"
     }
 }, {
     dish: {
-        name: "Popsicles",
-        image: "assets/img/dish-articles/miami-feverishpops-popsicles.jpg",
-        description: "A variety of handmade popsicles to cool you down"
+        name: "Mango Sticky Rice",
+        image: "assets/img/dish-articles/sf-thepphanomthairestaurant-mangostickyrice.jpg",
+        description: "Scooped out mango filled with spoonfuls of sticky rice laced with sweet coconut milk and topped with cool mango"
     },
     restaurant: {
-        name: "Feverish Pops",
-        url: "http://feleciaflair.wix.com/feverishpopshop"
+        name: "Thep Phanom Thai Restaurant",
+        url: "http://www.thepphanom.com/Thepphanom/Home.html"
     }
 }];
+

@@ -1,101 +1,101 @@
 export default [{
     dish: {
-        name: "Grilled Snapper",
-        image: "assets/img/dish-articles/miami-atrio-grilledsnapper.jpg",
-        description: "Grilled snapper with a mango salsa and basil aioli"
+        name: "Sous Vide",
+        image: "assets/img/dish-articles/dc-smithcommons-sousvide.jpg",
+        description: "Sous vide teres major served with potato latke, sauté swiss chard, parsnip purée and caraway juś"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Smith Commons",
+        url: "http://www.smithcommonsdc.com/"
     }
 }, {
     dish: {
-        name: "Grilled Hangar Steak",
-        image: "assets/img/dish-articles/miami-atrio-grilledhangarsteak.jpg",
-        description: "Grilled hanger steak with fingerling potatoes and chorizo"
+        name: "Maine Lobster Rolls",
+        image: "assets/img/dish-articles/dc-lukeslobster-lobsterroll.jpg",
+        description: "Freshly baked rolls bursting with lobster meat and seasoned with butter and their special seasoning"
     },
     restaurant: {
-        name: "Atrio",
-        url: "http://conradhotels3.hilton.com/en/hotels/florida/conrad-miami-MIACICI/amenities/restaurants-atrio.html"
+        name: "Luke’s Lobster",
+        url: "http://lukeslobster.com/"
     }
 }, {
     dish: {
-        name: "Pear and Proscuitto Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-pearandprosciutto.jpg",
-        description: "Proscuitto with fresh pears, Parmesan cheese, raspberry vinaigrette and basil"
+        name: "Fish and Chips",
+        image: "assets/img/dish-articles/dc-thequeenvic-fishandchips.jpg",
+        description: "Fresh cod fried to perfection with a side of fries"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "The Queen Vic",
+        url: "http://thequeenvicdc.com/"
     }
 }, {
     dish: {
-        name: "Manouri Cheese Envelope",
-        image: "assets/img/dish-articles/miami-kouzina-manouricheese.png",
-        description: "Soft manouri cheese wrapped in phyllo dough drizzled with mountain honey and sesame seeds"
+        name: "Dog Bite",
+        image: "assets/img/dish-articles/dc-teaism-dogbite.jpg",
+        description: "Grilled smoked chicken and apple sausage with togarashi mayo in a ficelle roll and topped with a jicama-apple slaw"
     },
     restaurant: {
-        name: "Kouzina",
-        url: "http://kouzinabistro.com/"
+        name: "Teaism",
+        url: "https://www.teaism.com/"
     }
 }, {
     dish: {
-        name: "Guava Pulled Pork Tacos",
-        image: "assets/img/dish-articles/miami-yuca-guavapulledporktacos.jpg",
-        description: "Slow cooked baby back ribs mixed with guava and pineapple BBQ sauce topped with pickled shallots, poblano and red peppers, cilantro aioli, and black beans"
+        name: "Godzirra Roll",
+        image: "assets/img/dish-articles/dc-stickyrice-godzirraroll.jpg",
+        description: "Large crunchy shrimp, avocado, cream cheese, spicy sauce and cucumbers with tempura crunchies and tobiko"
     },
     restaurant: {
-        name: "Yuca",
-        url: "http://www.yuca.com/"
+        name: "Sticky Rice",
+        url: "http://stickyricedc.com/"
     }
 }, {
     dish: {
-        name: "Dragon Ball Roll",
-        image: "assets/img/dish-articles/miami-bonding-dragonballsushiroll.jpg",
-        description: "Crab cream cheese, jalapeño, tuna and crispy rice"
+        name: "English Pea Puff",
+        image: "assets/img/dish-articles/dc-smithcommons-englishpeapuff.jpg",
+        description: "Curried potato and english pea puff with a coconut curry sauce"
     },
     restaurant: {
-        name: "Bonding",
-        url: "http://www.bondingmiami.com/"
+        name: "Smith Commons",
+        url: "http://www.smithcommonsdc.com/"
     }
 }, {
     dish: {
-        name: "Tuna Sashimi Salad",
-        image: "assets/img/dish-articles/miami-peacockgardencafe-tunasashimisalad.jpg",
-        description: "Tuna with soy, ginger, Chinese mustard, Ponzu, grape seed oil with baby greens, endive, watercress, radicchio, avocado and sesame seeds"
+        name: "Grilled Diver Scallop",
+        image: "assets/img/dish-articles/dc-tapandparlour-grilleddiverscallop.jpg",
+        description: "Grilled diver scallop with charred corn and black bean maque choux, crispy pancetta, and a fried shallot in a honey bourbon glaze"
     },
     restaurant: {
-        name: "Peacock Garden Cafe",
-        url: "http://jaguarhg.com/peacockspot/"
+        name: "Tap & Parlour",
+        url: "http://www.thetapandparlour.com/"
     }
 }, {
     dish: {
-        name: "Guava Empanada",
-        image: "assets/img/dish-articles/miami-thebookstoreinthegrove-guavaempanada.jpg",
-        description: "Homemade empanada dough stuffed with a sweet guava mixture fried to perfection"
+        name: "Chicken Tacos",
+        image: "assets/img/dish-articles/dc-pacificocantina-chickentacos.jpg",
+        description: "Grilled chicken on a corn tortilla topped with pico de gallo, cotija cheese, and salsa rojo"
     },
     restaurant: {
-        name: "The Bookstore in the Grove",
-        url: "http://www.thebookstoreinthegrove.com/"
+        name: "Pacifico Cantina",
+        url: "http://www.pacificodc.com/"
     }
 }, {
     dish: {
-        name: "Gelato",
-        image: "assets/img/dish-articles/miami-amoregelato-gelato.jpg",
-        description: "A variety of flavors of creamy, handmade gelato"
+        name: "Homemade Pop-Tarts",
+        image: "assets/img/dish-articles/dc-tedsbulletin-homemadepoptarts.jpg",
+        description: "Homemade pop-tarts in a variety of delicious flavors"
     },
     restaurant: {
-        name: "Amore Gelato",
-        url: "https://www.juicebarmiami.com/home.html"
+        name: "Ted’s Bulletin",
+        url: "http://www.tedsbulletin.com/"
     }
 }, {
     dish: {
-        name: "Popsicles",
-        image: "assets/img/dish-articles/miami-feverishpops-popsicles.jpg",
-        description: "A variety of handmade popsicles to cool you down"
+        name: "Dessert Pizza",
+        image: "assets/img/dish-articles/dc-handpizza-dessertpizza.jpg",
+        description: "Nutella, sweet ricotta, strawberry, powdered sugar, and pecans atop a pizza crust"
     },
     restaurant: {
-        name: "Feverish Pops",
-        url: "http://feleciaflair.wix.com/feverishpopshop"
+        name: "H&Pizza",
+        url: "http://andpizza.com/"
     }
 }];
